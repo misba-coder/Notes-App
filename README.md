@@ -2,15 +2,6 @@
 
 <p align="center">Capture Ideas Instantly, Empower Creativity Effortlessly</p>
 
-
-
-<p align="center">
-  <img src="https://img.shields.io/github/languages/top/misba-coder/NotesApp?color=blue&style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/count/misba-coder/NotesApp?style=for-the-badge" />
-</p>
-
-
-
 <p align="center">
   <em>Built with the tools and technologies:</em>
 </p>
@@ -24,9 +15,19 @@
 ---
 
 ## 📱 Overview
-A simple and efficient **Notes App** built using **Kotlin** and **SQLite Database** in Android Studio.  
-It allows users to **Create, Read, Update, and Delete (CRUD)** notes stored locally on the device.  
-This app demonstrates basic data persistence, RecyclerView usage, and clean UI design.
+A simple and efficient **Notes App** is an Android-based note-taking application designed with a clean architecture and robust build system. It provides a seamless user experience for creating, viewing, and updating notes, backed by persistent storage and well-structured activities.
+
+## Why Notes-App?
+This project aims to deliver a maintainable, secure, and efficient note-taking app. The core features include:
+- 🛠️ **Build Automation:** - Centralized Gradle scripts streamline dependency management and project configuration.
+- 🔒 **Security & Optimization:** - ProGuard rules and manifest configurations enhance app security and performance.
+
+- 📱 **User Interface:** - Intuitive activities for splash, main, note addition, and editing ensure smooth navigation.
+
+- 💾 **Data Persistence:** - SQLite database helper guarantees reliable storage and retrieval of notes.
+
+- 🔍 **Testing Foundation:** - Built-in unit and instrumented tests support quality assurance and stability.
+
 
 ---
 
@@ -49,8 +50,4 @@ This app demonstrates basic data persistence, RecyclerView usage, and clean UI d
 
 ---
 
-## ⚙️ Setup & Installation
 
-1️⃣ Clone the repository:
-```bash
-git clone https://github.com/misba-coder/NotesApp-SQLite-Kotlin.git
