@@ -5,8 +5,8 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/misba-coder/NotesApp-SQLite-Kotlin?color=blue&style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/count/misba-coder/NotesApp-SQLite-Kotlin?style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/top/misba-coder/NotesApp?color=blue&style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/count/misba-coder/NotesApp?style=for-the-badge" />
 </p>
 
 
