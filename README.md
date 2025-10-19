@@ -19,29 +19,9 @@ A simple and efficient **Notes App** is an Android-based note-taking application
 ---
 
 ## 🖼 Previews
-<div id="screenshot1" align="center">
-<img src=""https://github.com/misba-coder/Notes-App/blob/main/ScreenShots/SS2.png"" alt="Screenshot 1" width="600">
-<p><b>Screenshot 1 of 4</b></p>
-<a href="#screenshot4">⬅️ Previous</a> | <a href="#screenshot2">Next ➡️</a>
-</div>
-
-<div id="screenshot2" align="center">
-<img src=""C:\Users\Md Noor Alam\Desktop\ScreenShots\SS2.png"" alt="Screenshot 2" width="600">
-<p><b>Screenshot 2 of 4</b></p>
-<a href="#screenshot1">⬅️ Previous</a> | <a href="#screenshot3">Next ➡️</a>
-</div>
-
-<div id="screenshot3" align="center">
-<img src=""C:\Users\Md Noor Alam\Desktop\ScreenShots\SS3.png"" alt="Screenshot 3" width="600">
-<p><b>Screenshot 3 of 4</b></p>
-<a href="#screenshot2">⬅️ Previous</a> | <a href="#screenshot4">Next ➡️</a>
-</div>
-
-<div id="screenshot4" align="center">
-<img src=""C:\Users\Md Noor Alam\Desktop\ScreenShots\SS4.png"" alt="Screenshot 4" width="600">
-<p><b>Screenshot 4 of 4</b></p>
-<a href="#screenshot3">⬅️ Previous</a> | <a href="#screenshot1">Next ➡️</a>
-</div>
+<p align="center">
+  <img src="https://github.com/misba-coder/Notes-App/blob/main/ScreenShots/gifmake_com_1760902881080_569.gif" alt="App Screenshot Slider" width="600"/>
+</p>
 
 ---
 
@@ -64,7 +44,7 @@ This project aims to deliver a maintainable, secure, and efficient note-taking a
 - 📖 **View Notes** – Display all saved notes in a list  
 - 🛠️ **Update Notes** – Edit existing notes  
 - ❌ **Delete Notes** – Remove notes permanently  
-- 💾 **Local Storage** – All data is stored using SQLite database  
+- 💾 **Local Storage** – All data is store  d using SQLite database  
 - 🎨 **User-friendly UI** – Simple and clean interface  
 
 ---
