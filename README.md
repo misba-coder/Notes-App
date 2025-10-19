@@ -2,7 +2,7 @@
 
 <p align="center">Capture Ideas Instantly, Empower Creativity Effortlessly</p>
 
----
+
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/misba-coder/NotesApp-SQLite-Kotlin?style=for-the-badge" />
@@ -10,19 +10,18 @@
   <img src="https://img.shields.io/github/languages/count/misba-coder/NotesApp-SQLite-Kotlin?style=for-the-badge" />
 </p>
 
----
+
 
 <p align="center">
   <em>Built with the tools and technologies:</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
-  <img src="https://img.shields.io/badge/XML-005C84?style=for-the-badge&logo=xml&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" style="pointer-events: none;" />
+  <img src="https://img.shields.io/badge/XML-005C84?style=for-the-badge&logo=xml&logoColor=white" style="pointer-events: none;" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" style="pointer-events: none;" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" style="pointer-events: none;" />
 </p>
-
 ---
 
 ## 📱 Overview
@@ -30,18 +29,15 @@ A simple and efficient **Notes App** built using **Kotlin** and **SQLite Databas
 It allows users to **Create, Read, Update, and Delete (CRUD)** notes stored locally on the device.  
 This app demonstrates basic data persistence, RecyclerView usage, and clean UI design.
 
-🎥 **Tutorial Reference:**  
-[Notes App - CRUD SQLite Database in Android Studio using Kotlin | Create Read Update Delete Data](https://youtu.be/BVAslimaGSk?si=OEtaoQ3AXZVx68cF)
-
 ---
 
 ## 🚀 Features
-- ✍️ Create new notes  
-- 📖 View all saved notes  
-- 🛠️ Edit existing notes  
-- ❌ Delete notes  
-- 💾 Stored locally using SQLite  
-- 🎨 Clean and minimal interface  
+- ✍️ **Add Notes** – Create new notes easily  
+- 📖 **View Notes** – Display all saved notes in a list  
+- 🛠️ **Update Notes** – Edit existing notes  
+- ❌ **Delete Notes** – Remove notes permanently  
+- 💾 **Local Storage** – All data is stored using SQLite database  
+- 🎨 **User-friendly UI** – Simple and clean interface  
 
 ---
 
