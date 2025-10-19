@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
----
 
 ## 📱 Overview
 A simple and efficient **Notes App** is an Android-based note-taking application designed with a clean architecture and robust build system. It provides a seamless user experience for creating, viewing, and updating notes, backed by persistent storage and well-structured activities.
