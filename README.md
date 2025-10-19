@@ -20,7 +20,7 @@ A simple and efficient **Notes App** is an Android-based note-taking application
 
 ## 🖼 Previews
 <div id="screenshot1" align="center">
-<img src=""C:\Users\Md Noor Alam\Desktop\ScreenShots\SS1.png"" alt="Screenshot 1" width="600">
+<img src=""https://github.com/misba-coder/Notes-App/blob/main/ScreenShots/SS2.png"" alt="Screenshot 1" width="600">
 <p><b>Screenshot 1 of 4</b></p>
 <a href="#screenshot4">⬅️ Previous</a> | <a href="#screenshot2">Next ➡️</a>
 </div>
