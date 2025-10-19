@@ -15,33 +15,33 @@
 
 ## 📱 Overview
 A simple and efficient **Notes App** is an Android-based note-taking application designed with a clean architecture and robust build system. It provides a seamless user experience for creating, viewing, and updating notes, backed by persistent storage and well-structured activities.
+
 ---
 
 ## 🖼 Previews
-<details>
-  <summary>Click to view screenshots</summary>
-  
-  <p align="center">
-    <img src="(https://github.com/misba-coder/Notes-App/blob/main/ScreenShots/SS1.png)" width="400">
-    <br>
-    <em>Caption for screenshot 1.</em>
-  </p>
-  <p align="center">
-    <img src="https://github.com/misba-coder/Notes-App/blob/main/ScreenShots/SS2.png" width="400">
-    <br>
-    <em>Caption for screenshot 2.</em>
-  </p>
-    <p align="center">
-    <img src="https://github.com/misba-coder/Notes-App/blob/main/ScreenShots/SS3.png" width="400">
-    <br>
-    <em>Caption for screenshot 2.</em>
-  </p>
-    <p align="center">
-    <img src="https://github.com/misba-coder/Notes-App/blob/main/ScreenShots/SS4.png" width="400">
-    <br>
-    <em>Caption for screenshot 2.</em>
-  </p>
-</details>
+<div id="screenshot1" align="center">
+<img src=""C:\Users\Md Noor Alam\Desktop\ScreenShots\SS1.png"" alt="Screenshot 1" width="600">
+<p><b>Screenshot 1 of 4</b></p>
+<a href="#screenshot4">⬅️ Previous</a> | <a href="#screenshot2">Next ➡️</a>
+</div>
+
+<div id="screenshot2" align="center">
+<img src=""C:\Users\Md Noor Alam\Desktop\ScreenShots\SS2.png"" alt="Screenshot 2" width="600">
+<p><b>Screenshot 2 of 4</b></p>
+<a href="#screenshot1">⬅️ Previous</a> | <a href="#screenshot3">Next ➡️</a>
+</div>
+
+<div id="screenshot3" align="center">
+<img src=""C:\Users\Md Noor Alam\Desktop\ScreenShots\SS3.png"" alt="Screenshot 3" width="600">
+<p><b>Screenshot 3 of 4</b></p>
+<a href="#screenshot2">⬅️ Previous</a> | <a href="#screenshot4">Next ➡️</a>
+</div>
+
+<div id="screenshot4" align="center">
+<img src=""C:\Users\Md Noor Alam\Desktop\ScreenShots\SS4.png"" alt="Screenshot 4" width="600">
+<p><b>Screenshot 4 of 4</b></p>
+<a href="#screenshot3">⬅️ Previous</a> | <a href="#screenshot1">Next ➡️</a>
+</div>
 
 ---
 
