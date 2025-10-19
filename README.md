@@ -1,4 +1,4 @@
-<h1 align="center">📝 NOTES-APP</h1>
+<h1 align="center"> NOTES-APP</h1>
 
 <p align="center">Capture Ideas Instantly, Empower Creativity Effortlessly</p>
 
@@ -15,6 +15,35 @@
 
 ## 📱 Overview
 A simple and efficient **Notes App** is an Android-based note-taking application designed with a clean architecture and robust build system. It provides a seamless user experience for creating, viewing, and updating notes, backed by persistent storage and well-structured activities.
+---
+
+## 🖼 Previews
+<details>
+  <summary>Click to view screenshots</summary>
+  
+  <p align="center">
+    <img src="(https://github.com/misba-coder/Notes-App/blob/main/ScreenShots/SS1.png)" width="400">
+    <br>
+    <em>Caption for screenshot 1.</em>
+  </p>
+  <p align="center">
+    <img src="https://github.com/misba-coder/Notes-App/blob/main/ScreenShots/SS2.png" width="400">
+    <br>
+    <em>Caption for screenshot 2.</em>
+  </p>
+    <p align="center">
+    <img src="https://github.com/misba-coder/Notes-App/blob/main/ScreenShots/SS3.png" width="400">
+    <br>
+    <em>Caption for screenshot 2.</em>
+  </p>
+    <p align="center">
+    <img src="https://github.com/misba-coder/Notes-App/blob/main/ScreenShots/SS4.png" width="400">
+    <br>
+    <em>Caption for screenshot 2.</em>
+  </p>
+</details>
+
+---
 
 ## Why Notes-App?
 This project aims to deliver a maintainable, secure, and efficient note-taking app. The core features include:
