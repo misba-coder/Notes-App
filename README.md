@@ -19,13 +19,10 @@ A simple and efficient **Notes App** is an Android-based note-taking application
 ---
 
 ## 🖼 Screenshots
-<details>
 
-  <summary>Click to view screenshots</summary>
 <p align="center">
   <img src="https://github.com/misba-coder/Notes-App/blob/main/ScreenShots/gifmake_com_1760902881080_569.gif" alt ="Mobile Screenshot" width="350"/>
 </p>
-</details> 
 
 ---
 
