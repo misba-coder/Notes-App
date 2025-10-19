@@ -5,7 +5,6 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/misba-coder/NotesApp-SQLite-Kotlin?style=for-the-badge" />
   <img src="https://img.shields.io/github/languages/top/misba-coder/NotesApp-SQLite-Kotlin?color=blue&style=for-the-badge" />
   <img src="https://img.shields.io/github/languages/count/misba-coder/NotesApp-SQLite-Kotlin?style=for-the-badge" />
 </p>
@@ -17,10 +16,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" style="pointer-events: none;" />
-  <img src="https://img.shields.io/badge/XML-005C84?style=for-the-badge&logo=xml&logoColor=white" style="pointer-events: none;" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" style="pointer-events: none;" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" style="pointer-events: none;" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/XML-005C84?style=for-the-badge&logo=xml&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 ---
 
