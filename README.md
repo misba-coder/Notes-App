@@ -63,7 +63,6 @@ This project aims to deliver a maintainable, secure, and efficient note-taking a
 ## Developer
 **Misba Khatoon**
 *[Android Developer]* | MCA Graduate
-
-📧 Email: [Email](misbakhatoon910@gmail.com) 
+ 
 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/misba-khatoon-5067a3302) 
 
